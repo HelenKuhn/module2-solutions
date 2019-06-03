@@ -1,0 +1,6 @@
+echo "# module2-solutions" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/HelenKuhn/module2-solutions.git
+git push -u origin master
